@@ -104,3 +104,5 @@ for (let i = 1; i <= 5; i++) {
         break;
     } else {}
 }
+
+console.log('Made some changes');
